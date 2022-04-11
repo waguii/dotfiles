@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = wagabsousa@gmail.com
+	name = Wagner Araujo
